@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunders",
+    "prod_uri": "mysql://root:@localhost/codingthunders",
+    "fb_url": "https://facebook.com/codingthunders",
+    "tw_url": "https://twitter.com/codingthunders",
+    "gb_url": "https://gthub.com/codingthunders",
+    "gmail-user": "jitendrachandra00uk9@gmail.com",
+    "gmail-password": "jitendradeepak321",
+    "about_text":"Hi my name is Jitendra. i learn coding via Harry bhai.",
+    "no_of_posts": 2,
+    "login_image": "login.svg.svg",
+    "admin_user": "jitendra",
+    "admin_password": "myname",
+    "upload_location": "C:\\Users\\jiten\\PycharmProjects\\pythonProject\\WebFlask\\static"
+
+  }
+
+}
